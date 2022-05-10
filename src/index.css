@@ -13,6 +13,12 @@ body {
   justify-content: center;
   align-items: center;
 }
+
+.counter {
+  display: flex;
+  align-items: flex-end;
+}
+
 .counter > button {
   height: 50px;
   width: 50px;
